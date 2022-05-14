@@ -1,0 +1,21 @@
+{
+  "name": "ciao-status-fetch",
+  "version": "1.0.0",
+  "description": "A SDK to fetch data from Ciao instance",
+  "main": "index.js",
+  "author": "BRAVO68WEB",
+  "license": "MIT",
+  "private": false,
+  "git": {
+    "url": "https://github.com/BRAVO68WEB/ciao-status-fetch"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "node-fetch": "2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
