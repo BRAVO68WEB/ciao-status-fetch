@@ -1,6 +1,6 @@
 {
   "name": "ciao-status-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A SDK to fetch data from Ciao instance",
   "main": "index.js",
   "author": "BRAVO68WEB",
